@@ -21,7 +21,7 @@ echo 'export XMODIFIERS="@im=fcitx"' >> ~/.xprofile
 # install softwares
 yay -S google-chrome
 yay -S wps-offce ttf-wps-fonts
-yay -S visual-studio-code-bin
+yay -S code
 yay -S ripgrep
 
 # interesting cmd
@@ -29,3 +29,6 @@ yay -S screenfetch
 yay -S lolcat
 yay -S figlet toilet
 yay -S aview imagemagick
+# common softwares
+yay -S ulauncher
+yay -S variety
