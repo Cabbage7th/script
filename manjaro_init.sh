@@ -32,3 +32,4 @@ yay -S aview imagemagick
 # common softwares
 yay -S ulauncher
 yay -S variety
+yay -S nmap
